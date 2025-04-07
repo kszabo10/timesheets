@@ -13,7 +13,7 @@ The package can be deployed by the standard sf CLI commands to a scratch org. Th
 
 After cloning the repository, define the scratch org named as "lookup_rollup" as described here:
 
-- <code>sf org create scratch --target-dev-hub MyHub --alias timesheet --definition-file config/project-scratch-def.json --set-default --duration-days 3<code>
+- sf org create scratch --target-dev-hub MyHub --alias timesheet --definition-file config/project-scratch-def.json --set-default --duration-days 3
 
 Once the scratch org is created, enable the Field Service application in Setup -> Field Service Settings.
 Add the Timehseet management Permission Set
