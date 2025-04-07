@@ -1,0 +1,245 @@
+{
+	"records" :[
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "HD0HP3RD",
+		"HDM_WorkCenterExternalID__c": "S190-HD0HP3RD",
+		"HDM_Plant__c": "S190",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "HD0HPD",
+		"HDM_WorkCenterExternalID__c": "S190-HD0HPD",
+		"HDM_Plant__c": "S190",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "HD0IMANA",
+		"HDM_WorkCenterExternalID__c": "S190-HD0IMANA",
+		"HDM_Plant__c": "S190",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "HD0IT",
+		"HDM_WorkCenterExternalID__c": "S190-HD0IT",
+		"HDM_Plant__c": "S190",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "HD0LA3RD",
+		"HDM_WorkCenterExternalID__c": "S190-HD0LA3RD",
+		"HDM_Plant__c": "S190",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "UPPTSWE",
+		"HDM_WorkCenterExternalID__c": "S450-UPPTSWE",
+		"HDM_Plant__c": "S450",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "UPPTSWEG",
+		"HDM_WorkCenterExternalID__c": "S450-UPPTSWEG",
+		"HDM_Plant__c": "S450",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "UPPTWSTG",
+		"HDM_WorkCenterExternalID__c": "S450-UPPTWSTG",
+		"HDM_Plant__c": "S450",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "CPBTADMA",
+		"HDM_WorkCenterExternalID__c": "S430-CPBTADMA",
+		"HDM_Plant__c": "S430",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "CPBTSOJT",
+		"HDM_WorkCenterExternalID__c": "S430-CPBTSOJT",
+		"HDM_Plant__c": "S430",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "UPBTWCC",
+		"HDM_WorkCenterExternalID__c": "S450-UPBTWCC",
+		"HDM_Plant__c": "S450",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "CPBT052C",
+		"HDM_WorkCenterExternalID__c": "AB",
+		"HDM_Plant__c": "S430",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "CPBT053A",
+		"HDM_WorkCenterExternalID__c": "AB/YK/NW",
+		"HDM_Plant__c": "S430",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "CPBT054A",
+		"HDM_WorkCenterExternalID__c": "S430-CPBT054A",
+		"HDM_Plant__c": "S430",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "3PARTY",
+		"HDM_WorkCenterExternalID__c": "S440-3PARTY",
+		"HDM_Plant__c": "S440",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "MXFSI",
+		"HDM_WorkCenterExternalID__c": "S440-MXFSI",
+		"HDM_Plant__c": "S440",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "MXFSM",
+		"HDM_WorkCenterExternalID__c": "S440-MXFSM",
+		"HDM_Plant__c": "S440",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "MXGALLUS",
+		"HDM_WorkCenterExternalID__c": "S440-MXGALLUS",
+		"HDM_Plant__c": "S440",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "MXPPE",
+		"HDM_WorkCenterExternalID__c": "S440-MXPPE",
+		"HDM_Plant__c": "S440",
+		"HDM_ValidityStart__c":"2023-01-01"
+	},
+	{
+        "attributes": {
+            "type": "HDM_WorkCenter__c"
+        },
+		"RecordType":{
+			"Name":"HDM Standard Work Center"
+		},
+		"Name": "3RDPARTY",
+		"HDM_WorkCenterExternalID__c": "S450-3RDPARTY",
+		"HDM_Plant__c": "S450",
+		"HDM_ValidityStart__c":"2023-01-01"
+	}
+
+	]
+}

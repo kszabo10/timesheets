@@ -1,0 +1,98 @@
+{
+	"records" :[
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Stanpac Inc",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "2790 Thompson Rd, R.R. # 3",
+        "BillingCity" : "Smithville",
+        "BillinPostalCodec" : "ON LOR 2AO",
+        "BillingCountryCode" : "CA",
+        "HDM_ExternalID__c":"Stanpack"
+    },
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Fluido Oy",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "Rosenheimer Str. 147h",
+        "BillingCity" : "Munich",
+        "BillinPostalCodec" : "81671",
+        "BillingCountryCode" : "DE",
+        "HDM_ExternalID__c":"Fluido"
+    },
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Siemens AG",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "Werner-von-Siemens_Straße 1",
+        "BillingCity" : "Munich",
+        "BillinPostalCodec" : "80333",
+        "BillingCountryCode" : "DE",
+        "HDM_ExternalID__c":"Siemens"
+    },
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Schreiner Group GmbH & Co. KG",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "Bruckmannring 22",
+        "BillingCity" : "Oberschleißheim",
+        "BillinPostalCodec" : "85764",
+        "BillingCountryCode" : "DE",
+        "HDM_ExternalID__c":"Schreiner"
+    },
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Stork Druckerei GmbH",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "Württemberger Str. 2",
+        "BillingCity" : "Bruschsal",
+        "BillinPostalCodec" : "76646",
+        "BillingStateCode" : "BW",
+        "BillingCountryCode" : "DE",
+        "HDM_ExternalID__c":"Stork"
+    },
+
+	{
+		"attributes": {
+			"type": "Account"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Account"
+        },
+        "Name":"Hornberger Druck GmbH",
+        "HDM_AccountGroup__c":"Z001",	
+        "BillingStreet": "Belchenstr. 8",
+        "BillingCity" : "Maulburg",
+        "BillingPostalCodec" : "79689",
+        "BillingStateCode" : "BW",
+        "BillingCountryCode" : "DE",
+        "HDM_ExternalID__c":"Hornberger"
+    }
+
+	]
+}

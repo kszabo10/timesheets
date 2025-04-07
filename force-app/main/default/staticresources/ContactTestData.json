@@ -1,0 +1,249 @@
+{
+	"records" :[
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Stanpack"
+		},
+        "FirstName":"Chris",
+        "LastName":"Contact0",
+        "Email": "chris.contact0@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Stanpack"
+		},
+        "FirstName":"Chris",
+        "LastName":"Contact1",
+        "Email": "chris.contact1@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Stanpack"
+		},
+        "FirstName":"Chris",
+        "LastName":"Contact2",
+        "Email": "chris.contact2@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Stanpack"
+		},
+        "FirstName":"Chris",
+        "LastName":"Contact3",
+        "Email": "chris.contact3@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Fluido"
+		},
+        "FirstName":"Fred",
+        "LastName":"Contact10",
+        "Email": "fred.contact10@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Fluido"
+		},
+        "FirstName":"Fred",
+        "LastName":"Contact11",
+        "Email": "fred.contact11@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Fluido"
+		},
+        "FirstName":"Fred",
+        "LastName":"Contact12",
+        "Email": "fred.contact12@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Fluido"
+		},
+        "FirstName":"Fred",
+        "LastName":"Contact13",
+        "Email": "fred.contact13@stanpack.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Siemens"
+		},
+        "FirstName":"Simon",
+        "LastName":"Contact20",
+        "Email": "simon.contact20@siemens.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Siemens"
+		},
+        "FirstName":"Simon",
+        "LastName":"Contact21",
+        "Email": "simon.contact21@siemens.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Siemens"
+		},
+        "FirstName":"Simon",
+        "LastName":"Contact22",
+        "Email": "simon.contact22@siemens.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Siemens"
+		},
+        "FirstName":"Simon",
+        "LastName":"Contact23",
+        "Email": "simon.contact13@siemens.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Schreiner"
+		},
+        "FirstName":"Samuel",
+        "LastName":"Contact30",
+        "Email": "samuel.contact30@schreiner.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Schreiner"
+		},
+        "FirstName":"Samuel",
+        "LastName":"Contact31",
+        "Email": "samuel.contact31@schreiner.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Schreiner"
+		},
+        "FirstName":"Samuel",
+        "LastName":"Contact32",
+        "Email": "samuel.contact32@schreiner.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    },
+	{
+		"attributes": {
+			"type": "Contact"
+  		},
+        "RecordType":{
+            "Name":"HDM Standard Contact"
+        },
+		"account": {
+			"HDM_ExternalId__c":"Schreiner"
+		},
+        "FirstName":"Samuel",
+        "LastName":"Contact33",
+        "Email": "samuel.contact33@schreiner.com.invalid",
+        "HDM_PreferredLanguage__c" : "en"
+    }
+
+
+	]
+}

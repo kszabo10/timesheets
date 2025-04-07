@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Weekly</fullName>
+        <default>true</default>
+        <label>Weekly</label>
+    </customValue>
+    <customValue>
+        <fullName>Weekly with Month-End Closing</fullName>
+        <default>false</default>
+        <label>Weekly with Month-End Closing</label>
+    </customValue>
+    <customValue>
+        <fullName>No</fullName>
+        <default>false</default>
+        <label>No</label>
+    </customValue>
+    <description>Defines what way should Time Sheet records be created</description>
+    <masterLabel>Time Sheet Generation</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

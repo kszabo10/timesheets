@@ -1,0 +1,22 @@
+{
+	"orgName": "Fluido FS scratch",
+	"edition": "Enterprise",
+	"features": [
+		"EnableSetPasswordInApi",
+		"FieldService:2",
+		"Communities",
+		"ServiceCloud",
+		"LiveAgent"		
+	],
+	"settings": {
+		"lightningExperienceSettings": {
+		"enableS1DesktopEnabled": true
+		},
+		"mobileSettings": {
+		"enableS1EncryptedStoragePref2": false
+		},
+		"fieldServiceSettings": {
+			"enableFieldServiceMobile": true
+		}
+	}
+}

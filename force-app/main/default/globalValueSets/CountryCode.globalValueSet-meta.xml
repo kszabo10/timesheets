@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>DE</fullName>
+        <default>false</default>
+        <label>DE</label>
+    </customValue>
+    <customValue>
+        <fullName>US</fullName>
+        <default>false</default>
+        <label>US</label>
+    </customValue>
+    <customValue>
+        <fullName>CN</fullName>
+        <default>false</default>
+        <label>CN</label>
+    </customValue>
+    <customValue>
+        <fullName>IT</fullName>
+        <default>false</default>
+        <label>IT</label>
+    </customValue>
+    <customValue>
+        <fullName>ES</fullName>
+        <default>false</default>
+        <label>ES</label>
+    </customValue>
+    <description>Lists the active countries with their 2-digit Country Code</description>
+    <masterLabel>Country Code</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,44 @@
+{
+	"records" :[
+	{
+		"attributes": {
+			"type": "User"
+  		},
+        "Profile":{
+            "Name":"Standard User"
+        },
+        "Alias":"fs1de",
+        "Email":"fs1.de@fs1.de.demoorg.com.technician",
+        "EmailEncodingKey":"UTF-8",
+        "LastName": "De",
+        "FirstName": "Fs1",
+        "LanguageLocaleKey":"en_US",
+        "LocaleSidKey":"en_US",
+        "TimeZoneSidKey":"America/Los_Angeles",
+        "Username":"fs1.de@fs1.de.demoorg.com.technician",
+        "IsActive":"true",
+        "SalesOrganization__c":"DE"
+    },
+	{
+		"attributes": {
+			"type": "User"
+  		},
+        "Profile":{
+            "Name":"Standard User"
+        },
+        "Alias":"fs12it",
+        "Email":"fs2.it@fs1.it.demoorg.com.technician",
+        "EmailEncodingKey":"UTF-8",
+        "LastName": "It",
+        "FirstName": "Fs2",
+        "LanguageLocaleKey":"en_US",
+        "LocaleSidKey":"en_US",
+        "TimeZoneSidKey":"America/Los_Angeles",
+        "Username":"fs2.it@fs2.it.demoorg.com.technician",
+        "IsActive":"true",
+        "SalesOrganization__c":"IT"
+    }
+
+
+	]
+}

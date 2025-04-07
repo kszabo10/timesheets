@@ -1,0 +1,1 @@
+DemoDataCreation.deleteAll('DELETE-ALL-RECORDS-FROM-ORG');

@@ -1,0 +1,1482 @@
+{
+	"records" :[
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Canada",
+		"TerritoryId__c": "TR430000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD CEN",
+		"TerritoryId__c": "TR432000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD EST",
+		"TerritoryId__c": "TR433000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD All",
+		"TerritoryId__c": "TR434000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD WST",
+		"TerritoryId__c": "TR431000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Tech Center West",
+		"TerritoryId__c": "TR431010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Tech Center Central",
+		"TerritoryId__c": "TR432010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Tech Center East",
+		"TerritoryId__c": "TR433010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Prepress East",
+		"TerritoryId__c": "TR433020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HCD_EDT"
+		},
+		"Country": "Canada",
+		"CountryCode": "CA",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HCD Prepress All",
+		"TerritoryId__c": "TR434010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Mexico",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS North Central",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS North Central Press",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS North Central Third Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Central",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Central Press",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Central Third Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS East",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS East Press",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS East Prepress and Postpress",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS West",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS West Press",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS West Prepress and Postpress",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS West Third Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS South",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS South Press",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS South Third Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS All",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Digital",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Web Carton",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Gallus",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS GSC",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Apprentice",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Third Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Planned Service",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS Prinect",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Press Electronic",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Press Mechanic",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Press Instructor",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Gallus",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Postpress",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Prepress",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Prinect",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX Apprentice",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX 3rd Party",
+		"TerritoryId__c": ""
+	},
+	{		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HMX_CST"
+		},
+		"Country": "Mexico",
+		"CountryCode": "MX",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HMX GSC",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HUS_EST"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HUS America",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Deutschland",
+		"TerritoryId__c": "TR190000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Nord",
+		"TerritoryId__c": "TR191000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Süd",
+		"TerritoryId__c": "TR192000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Nord",
+		"TerritoryId__c": "TR195000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Süd",
+		"TerritoryId__c": "TR196000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress Prinect",
+		"TerritoryId__c": "TR197000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress Nord",
+		"TerritoryId__c": "TR198000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress Süd",
+		"TerritoryId__c": "TR199000"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Druckinstrukteure  Nord",
+		"TerritoryId__c": "TR191010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Elektrik Nord",
+		"TerritoryId__c": "TR191020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Mechanik Großoffset Nord",
+		"TerritoryId__c": "TR191030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Mechanik Kl./Mitteloffset Nord",
+		"TerritoryId__c": "TR191050"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Azubis Nord",
+		"TerritoryId__c": "TR191060"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Druckinstrukteure  Süd",
+		"TerritoryId__c": "TR192010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Elektrik Süd",
+		"TerritoryId__c": "TR192020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Mechanik Großoffset Süd",
+		"TerritoryId__c": "TR192030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Mechanik Klein-Mitteloffs. Süd",
+		"TerritoryId__c": "TR192050"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press Azubis Süd",
+		"TerritoryId__c": "TR192060"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press 3rd Party Nord",
+		"TerritoryId__c": "TR193010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Press 3rd Party Süd",
+		"TerritoryId__c": "TR193020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Stahlfolder Nord",
+		"TerritoryId__c": "TR195010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Polar Nord",
+		"TerritoryId__c": "TR195020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Azubis Nord",
+		"TerritoryId__c": "TR195030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Stahlfolder Süd",
+		"TerritoryId__c": "TR196010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Polar Süd",
+		"TerritoryId__c": "TR196020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Azubis Süd",
+		"TerritoryId__c": "TR196030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress CTP Nord",
+		"TerritoryId__c": "TR198010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress Prinect Nord",
+		"TerritoryId__c": "TR198020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress PCM Nord",
+		"TerritoryId__c": "TR198030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress CTP Süd",
+		"TerritoryId__c": "TR199010"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress Prinect Süd",
+		"TerritoryId__c": "TR199020"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "Germany",
+		"CountryCode": "DE",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress PCM Süd",
+		"TerritoryId__c": "TR199030"
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress 3rd Party Nord",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress 3rd Party Süd",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress 3rd Party Nord",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Prepress 3rd Party Süd",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Packaging",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Postpress Packaging 3rd Party",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Label",
+		"TerritoryId__c": ""
+	},
+	{
+		"attributes": {
+			"type": "ServiceTerritory"
+		},
+		"OperatingHours": {
+			"SE_ExternalId__c": "HDD"
+		},
+		"Country": "United States",
+		"CountryCode": "US",
+		"CurrencyIsoCode": "EUR",
+		"FSL__Hide_Emergency_Map__c": false,
+		"FSL__O2_Enabled__c": false,
+		"FSL__System_Jobs__c": "user territories",
+		"IsActive": true,
+		"Name": "HDD Label 3rd Party",
+		"TerritoryId__c": ""
+	}
+	]
+}

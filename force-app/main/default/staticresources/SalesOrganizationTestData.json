@@ -1,0 +1,20 @@
+{
+    "records": [
+	{
+        "attributes": {
+            "type": "SalesOrganization__c"
+        },
+        "Name": "Germany",
+        "SalesOrganizationName__c": "DE",
+        "TimeSheetGeneration__c": "Weekly with Month-End Closing"
+	},
+	{
+        "attributes": {
+            "type": "SalesOrganization__c"
+        },
+        "Name": "Italy",
+        "SalesOrganizationName__c": "IT",
+        "TimeSheetGeneration__c": "Weekly"
+	}	
+    ]
+}

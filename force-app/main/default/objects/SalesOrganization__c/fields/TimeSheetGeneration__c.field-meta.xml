@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TimeSheetGeneration__c</fullName>
+    <description>Defines how shall Time Sheets be generated for a Service Resource who belongs to this Sales Org.</description>
+    <label>Time Sheet Generation</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>TimeSheetGeneration</valueSetName>
+    </valueSet>
+</CustomField>
