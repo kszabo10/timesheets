@@ -57,37 +57,4 @@ public class DemoDataCreationTest {
         System.assert(ssos.size() > 0);
     }
 
-/*    @isTest
-    public static void deleteServiceSalesOrganizationsRecords(){
-        Test.startTest();
-        DemoDataCreation.deleteAllRecords('SalesOrganization');
-        List<SalesOrganization__c> ssos = [
-            select Id, Name 
-            from SalesOrganization__c
-        ];
-        Test.stopTest();
-        System.assert(ssos.size() == 0);
-    }*/
-/*    @isTest
-	public static void createSingleRecordDeleteRecords(){
-        Test.startTest();
-        DemoDataCreation.createRecords('SalesOrganization', true,false);
-        List<SalesOrganization__c> ssos = [
-            select Id, Name 
-            from SalesOrganization__c
-        ];
-        Test.stopTest();
-        System.assert(ssos.size() > 0);
-    }
-    @isTest
-    public static void createSingleAccountRecord(){
-        Test.startTest();
-        DemoDataCreation.createRecords('Account', true,false);
-        List<Account> ssos = [
-            select Id, Name 
-            from Account
-        ];
-        Test.stopTest();
-        System.assert(ssos.size() > 0);
-    }*/
 }

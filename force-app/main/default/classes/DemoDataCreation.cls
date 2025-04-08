@@ -16,8 +16,7 @@ public with sharing class DemoDataCreation {
 	};
 
 	private static final List<String> ALL_CREATE_OBJECTS = new List<String>{
-        'SalesOrganization__c',
-        'User'
+        'SalesOrganization__c'
 	};
 
 	/**

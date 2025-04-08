@@ -12,12 +12,7 @@ public with sharing class TimeSheetUtilsTest {
         // startTest and stopTest are needed to separate governor limits from the real test method executions
         test.startTest();
         TestDataFactory.createSalesOrganizations();
-/*        TestDataFactory.createServiceTerritories();
-
-        TestDataFactory.createAccounts();
-        TestDataFactory.createContacts();*/
         TestDataFactory.createUsers();
-
         test.stopTest();
     }
 
@@ -67,7 +62,6 @@ public with sharing class TimeSheetUtilsTest {
             select Id
             from ServiceResource
         ]);
-        System.debug('serviceResource size = ' + serviceResources.size());
         Date lastTimeSheetDate = TimeSheetUtils.findLatestEndDate(serviceResources.get(0));
         Assert.isTrue(lastTimeSheetDate <= Date.today(), 'findLatestEndDateTest error: lasTimeSheetDate should be not later than today');
 	}

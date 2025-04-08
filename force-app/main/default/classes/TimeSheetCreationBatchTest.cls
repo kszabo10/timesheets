@@ -16,14 +16,9 @@ public class TimeSheetCreationBatchTest {
 
         // Create ServiceResource records for the test
         List<ServiceResource> serviceResources = TestDataFactory.createServiceResources();
-        System.debug('serviceResources size = ' + serviceResources.size());
-        for(ServiceResource sr : serviceResources){
-            System.debug('Next serviceResource = ' + sr);
-        }
         TimesheetGeneration__mdt batchConfig = TimesheetGeneration__mdt.getInstance(
             'Timesheet_info'
         );
-        System.debug('batchConfig = ' + batchConfig);
         Database.executeBatch(
             new TimeSheetCreationBatch((Integer) batchConfig.WeeksAhead__c)
         );
@@ -34,7 +29,6 @@ public class TimeSheetCreationBatchTest {
             select count() 
             from TimeSheet 
             where Status = 'New'];
-        System.debug('newTimeSheetCount = ' + newTimeSheetCount);
         Assert.isTrue(newTimeSheetCount > 0, 'New TimeSheet records should be created by the batch.');
     }
 
