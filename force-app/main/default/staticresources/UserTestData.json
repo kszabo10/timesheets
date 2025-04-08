@@ -15,7 +15,7 @@
         "LanguageLocaleKey":"en_US",
         "LocaleSidKey":"en_US",
         "TimeZoneSidKey":"America/Los_Angeles",
-        "Username":"fs1.de@fs1.de.demoorg.com.technician",
+        "Username":"fs1.de@fs11.de.demoorg.com.technician",
         "IsActive":"true",
         "SalesOrganization__c":"DE"
     },
@@ -34,7 +34,7 @@
         "LanguageLocaleKey":"en_US",
         "LocaleSidKey":"en_US",
         "TimeZoneSidKey":"America/Los_Angeles",
-        "Username":"fs2.it@fs2.it.demoorg.com.technician",
+        "Username":"fs2.it@fs21.it.demoorg.com.technician",
         "IsActive":"true",
         "SalesOrganization__c":"IT"
     }
