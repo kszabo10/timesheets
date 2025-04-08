@@ -238,7 +238,7 @@ public with sharing class DemoDataCreation {
             TimeZoneSidKey = 'America/Los_Angeles',
             Username = 'fs2.it' + strMsecTime + '@fs2.it.demoorg.com',
             IsActive = true,
-            SalesOrganization__c = 'DE'
+            SalesOrganization__c = 'IT'
         );
         users.add(user2);
         insert users;
