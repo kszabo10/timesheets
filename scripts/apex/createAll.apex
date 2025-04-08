@@ -1,2 +1,2 @@
 DemoDataCreation.createAll();
-DEmoDataCreation.createUsers();
+DemoDataCreation.createUsers();
