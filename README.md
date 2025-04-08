@@ -29,8 +29,10 @@ Add the Timesheet management Permission Set to your Syste, Admoinistrator Accoun
 # Create Demo Data
 
 Run the following Apex command as anonymous Apex: 
-- DemoDataCreation.createAll();
-
+```
+        DemoDataCreation.createAll();
+        DemoDataCreation.createUsers();
+```
 
 This will create 
 - two SalesOrganization__c records for DE and IT, woth different TimeSheetManagement picklist values

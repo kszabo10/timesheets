@@ -9,7 +9,7 @@
 **/
 public with sharing class DemoDataCreation {
 
-
+    private static List<User> users = null;
 	private static final String CONFIRM_DELETE = 'DELETE-ALL-RECORDS-FROM-ORG';
 	private static final List<String> ALL_DELETE_OBJECTS = new List<String>{
 		'SalesOrganization__c'
@@ -196,5 +196,55 @@ public with sharing class DemoDataCreation {
         }
     }
 
+    // Create users
+    public static List<User> createUsers(){
+        Profile stdUserProfile = [
+            select Id, Name from Profile
+            where Name = 'Standard User'
+            limit 1
+        ];
+        System.debug('stdUserProfile = ' + stdUserProfile);
+        users = New List<User>();
+        DateTime timeNow = dateTime.now();
+        Long msecTime = timeNow.getTime();
+        String strMsecTime = String.valueOf(msecTime);
+        User user1 = new User( 
+            ProfileId = stdUserProfile.Id,
+            Alias = 'fs1de',
+            Email = 'fs1.de@fs1.de.demoorg.com.technician',
+            EmailEncodingKey = 'UTF-8',
+            LastName =  'De',
+            FirstName = 'Fs1',
+            LanguageLocaleKey = 'en_US',
+            LocaleSidKey = 'en_US',
+            TimeZoneSidKey = 'America/Los_Angeles',
+            Username = 'fs1.de' + strMsecTime + '@fs1.de.demoorg.com',
+            IsActive = true,
+            SalesOrganization__c = 'DE'
+        );
+        users.add(user1);
+
+        // Increase strMsecTime to avoid user duplicates
+        strMsecTime = String.valueOf(msecTime + 1);
+        User user2 = new User( 
+            ProfileId = stdUserProfile.Id,
+            Alias = 'fs2it',
+            Email = 'fs2.it@fs2.it.demoorg.com.technician',
+            EmailEncodingKey = 'UTF-8',
+            LastName =  'It',
+            FirstName = 'Fs2',
+            LanguageLocaleKey = 'en_US',
+            LocaleSidKey = 'en_US',
+            TimeZoneSidKey = 'America/Los_Angeles',
+            Username = 'fs2.it' + strMsecTime + '@fs2.it.demoorg.com',
+            IsActive = true,
+            SalesOrganization__c = 'DE'
+        );
+        users.add(user2);
+        insert users;
+
+        System.debug('users size = ' + users.size());
+		return users;
+    }
 
 }
