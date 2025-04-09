@@ -42,14 +42,14 @@ Manually create two Service Resources, one for each user.
 
 Once the Service users are active, click their Create Timesheet button as Quick Action. 
 
-Alternatively, as another anonymous Apex, run the following script:
+Alternatively, as another anonymous Apex, run the following script to create all Timesheet reocrds as a batch:
 ```
-        TimesheetGeneration__mdt batchConfig = TimesheetGeneration__mdt.getInstance(
-            'Timesheet_info'
-        );
-        Database.executeBatch(
-            new TimeSheetCreationBatch((Integer) batchConfig.WeeksAhead__c)
-        );
+    TimesheetGeneration__mdt batchConfig = TimesheetGeneration__mdt.getInstance(
+        'Timesheet_info'
+    );
+    Database.executeBatch(
+        new TimeSheetCreationBatch((Integer) batchConfig.WeeksAhead__c), (Integer) batchConfig.BatchSize__c
+    );
 ```
 
 The batch will create Timesheet records for all active Service Resources. 
