@@ -3,6 +3,10 @@
     <label>Timesheet info</label>
     <protected>false</protected>
     <values>
+        <field>BatchSize__c</field>
+        <value xsi:type="xsd:double">150.0</value>
+    </values>
+    <values>
         <field>WeeksAhead__c</field>
         <value xsi:type="xsd:double">52.0</value>
     </values>
