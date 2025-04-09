@@ -12,19 +12,11 @@ public class ScheduleTimesheetCreationBatch implements Schedulable {
     private static final String BATCH_CODE = 'ScheduleTimeSheetCreationBatch';
   
     public void execute(SchedulableContext sc) {
-		/*HDM_BatchProcessConfig__mdt batchConfig = HDM_BatchProcessConfig__mdt.getInstance(
-			BATCH_CODE
-		);
-	
-		if (
-			batchConfig != null &&
-			batchConfig.HDM_Size_Of_The_Batch__c != null &&
-			batchConfig.HDM_Active__c
-		) {
-			Database.executeBatch(
-			new TimeSheetCreationBatch(batchConfig),
-			Integer.valueOf(batchConfig.HDM_Size_Of_The_Batch__c)
-			);
-		}*/
+		TimesheetGeneration__mdt batchConfig = TimesheetGeneration__mdt.getInstance(
+            'Timesheet_info'
+        );
+        TimeSheetCreationBatch newBatch = new TimeSheetCreationBatch((Integer) batchConfig.WeeksAhead__c);
+        Database.executeBatch(newBatch, (Integer) batchConfig.BatchSize__c);
+
 	}
 }

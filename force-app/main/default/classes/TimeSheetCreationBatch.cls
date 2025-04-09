@@ -6,7 +6,7 @@
  * @description	Ensure that month-end split weeks are split even if the month-end day is Saturday or Sunday
  */
 
-public without sharing class TimeSheetCreationBatch implements Database.batchable<sObject>, Database.Stateful {
+public without sharing class TimeSheetCreationBatch implements Database.Satchable<sObject>, Database.Stateful {
 	public Integer countRecords = 0; // Service Resource records count
 	Integer weeksAhead = 12; // Defines how many full weeks ahead need Time Sheets to be generated
 	Date allTimeSheetsEndDate; // The highest End Date till the batch Time Sheet records should generate

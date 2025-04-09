@@ -234,7 +234,12 @@
 			isMonthEndSplit = true;
 		}
 
-		List<TimeSheet> timeSheets = createTimeSheets(sr, isMonthEndSplit, 10); 
+		// Get the Custom Metadata for the weeks ahead number
+		TimesheetGeneration__mdt batchConfig = TimesheetGeneration__mdt.getInstance(
+            'Timesheet_info'
+        );
+
+		List<TimeSheet> timeSheets = createTimeSheets(sr, isMonthEndSplit, (Integer) batchConfig.WeeksAhead__c); 
 		insert timeSheets;
 		Integer retVal = timeSheets.size();
 		return new List<Integer>{retVal};
